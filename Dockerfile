@@ -1,5 +1,5 @@
 # Use the offical Go image to build the binary
-FROM golang:1.20-alpine AS builder
+FROM golang:1.22-alpine AS builder
 
 WORKDIR /app
 
