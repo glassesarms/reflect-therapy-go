@@ -1,6 +1,6 @@
 module github.com/glassesarms/reflect-therapy-go
 
-go 1.22.2
+go 1.22
 
 require (
 	github.com/bytedance/sonic v1.11.6 // indirect
